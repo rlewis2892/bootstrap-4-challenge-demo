@@ -15,7 +15,7 @@
 
 		<title>Bootstrap 4 Challenge Demo</title>
 	</head>
-	<body>
+	<body class="pb-5">
 		<header>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -41,7 +41,7 @@
 			</div>
 		</header>
 
-		<section>
+		<section class="py-5">
 			<div class="container">
 				<div class="jumbotron">
 					<h1 class="display-3">Hello, world!</h1>
@@ -51,7 +51,7 @@
 			</div>
 		</section>
 
-		<section class="bg-secondary text-white">
+		<section class="bg-secondary text-white py-5">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3">
@@ -65,7 +65,7 @@
 			</div>
 		</section>
 
-		<section>
+		<section class="py-5">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6 col-lg-3">
@@ -112,9 +112,9 @@
 			</div>
 		</section>
 
-		<footer class="bg-dark">
+		<footer class="bg-dark fixed-bottom py-3">
 			<div class="container">
-				<p class="text-center lead text-white">Shaman hashtag normcore literally, YOLO irony actually etsy.</p>
+				<div class="text-center lead text-white">Shaman hashtag normcore literally, YOLO irony actually etsy.</div>
 			</div>
 		</footer>
 	</body>
