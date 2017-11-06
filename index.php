@@ -43,25 +43,78 @@
 
 		<section>
 			<div class="container">
+				<div class="jumbotron">
+					<h1 class="display-3">Hello, world!</h1>
+					<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+					<button class="btn btn-info">Stay Classy!</button>
+				</div>
+			</div>
+		</section>
 
+		<section class="bg-secondary text-white">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<img class="img-fluid mx-auto d-block" src="http://www.fillmurray.com/200/200" alt="bill murray">
+					</div>
+					<div class="col-md-9">
+						<p>Bitters flannel bicycle rights, tousled umami lomo hell of celiac copper mug. Vaporware tilde lumbersexual poutine meh kinfolk pitchfork af four dollar toast meggings palo santo normcore, tacos PBR&B. Lyft aesthetic wayfarers snackwave taiyaki iPhone green juice. IPhone ugh flannel blue bottle hashtag. You probably haven't heard of them church-key tofu disrupt, pickled kinfolk occupy food truck tumeric pug intelligentsia jean shorts heirloom activated charcoal next level.</p>
+						<p>Bitters flannel bicycle rights, tousled umami lomo hell of celiac copper mug. Vaporware tilde lumbersexual poutine meh kinfolk pitchfork af four dollar toast meggings palo santo normcore, tacos PBR&B. Lyft aesthetic wayfarers snackwave taiyaki iPhone green juice.</p>
+					</div>
+				</div>
 			</div>
 		</section>
 
 		<section>
 			<div class="container">
-
+				<div class="row">
+					<div class="col-sm-6 col-lg-3">
+						<img class="img-fluid rounded-circle d-block mx-auto" src="http://www.fillmurray.com/200/200" alt="bill murray">
+						<div class="card text-center">
+							<div class="card-body">
+								<h4 class="card-title">Card title</h4>
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+								<a href="#" class="btn btn-primary">Go somewhere</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-lg-3">
+						<img class="img-fluid rounded-circle d-block mx-auto" src="http://www.fillmurray.com/200/200" alt="bill murray">
+						<div class="card text-center">
+							<div class="card-body">
+								<h4 class="card-title">Card title</h4>
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+								<a href="#" class="btn btn-primary">Go somewhere</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-lg-3">
+						<img class="img-fluid rounded-circle d-block mx-auto" src="http://www.fillmurray.com/200/200" alt="bill murray">
+						<div class="card text-center">
+							<div class="card-body">
+								<h4 class="card-title">Card title</h4>
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+								<a href="#" class="btn btn-primary">Go somewhere</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-lg-3">
+						<img class="img-fluid rounded-circle d-block mx-auto" src="http://www.fillmurray.com/200/200" alt="bill murray">
+						<div class="card text-center">
+							<div class="card-body">
+								<h4 class="card-title">Card title</h4>
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+								<a href="#" class="btn btn-primary">Go somewhere</a>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</section>
 
-		<section>
+		<footer class="bg-dark">
 			<div class="container">
-
-			</div>
-		</section>
-
-		<footer>
-			<div class="container">
-
+				<p class="text-center lead text-white">Shaman hashtag normcore literally, YOLO irony actually etsy.</p>
 			</div>
 		</footer>
 	</body>
