@@ -54,10 +54,10 @@
 		<section class="bg-secondary text-white">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3">
-						<img class="img-fluid mx-auto d-block" src="http://www.fillmurray.com/200/200" alt="bill murray">
+					<div class="col-lg-3">
+						<img class="img-fluid mx-auto mx-lg-0 d-block" src="http://www.fillmurray.com/200/200" alt="bill murray">
 					</div>
-					<div class="col-md-9">
+					<div class="col-lg-9 text-justify">
 						<p>Bitters flannel bicycle rights, tousled umami lomo hell of celiac copper mug. Vaporware tilde lumbersexual poutine meh kinfolk pitchfork af four dollar toast meggings palo santo normcore, tacos PBR&B. Lyft aesthetic wayfarers snackwave taiyaki iPhone green juice. IPhone ugh flannel blue bottle hashtag. You probably haven't heard of them church-key tofu disrupt, pickled kinfolk occupy food truck tumeric pug intelligentsia jean shorts heirloom activated charcoal next level.</p>
 						<p>Bitters flannel bicycle rights, tousled umami lomo hell of celiac copper mug. Vaporware tilde lumbersexual poutine meh kinfolk pitchfork af four dollar toast meggings palo santo normcore, tacos PBR&B. Lyft aesthetic wayfarers snackwave taiyaki iPhone green juice.</p>
 					</div>
